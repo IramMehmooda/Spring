@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 15 resources" deleteContents="false" description="Delete 15 resources" element1="/hbm2ddl.auto" element10="/OneTablePerSubclass-XML" element11="/OneToMany-Annotation" element12="/OneToMany-XML" element13="/OneToOne-Annotation" element14="/OneToOne-XML" element15="/TableGenerator" element2="/HibernateExample-Annotation" element3="/HibernateExample-XML" element4="/LazyLoading" element5="/ManyToMany-Annotation" element6="/ManyToMany-XML" element7="/OneTablePerHeirarchy-Annotation" element8="/OneTablePerHeirarchy-XML" element9="/OneTablePerSubclass-Annotation" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="15" stamp="1519360770709"/>
+</session>
